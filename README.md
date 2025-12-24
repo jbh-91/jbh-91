@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julian @jbh-91
-- 👀 I’m interested in automating boring tasks, webdesign and game development
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on smaller python projects
+- 👀 I’m interested in automating boring tasks and business applications
+- 🌱 I’m currently learning Java and Spring Boot
+- 💞️ I’m looking to collaborate on Spring Boot projects
 - 📫 How to reach me mail@julian-heinen.de
 
 <!---
